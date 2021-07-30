@@ -1,30 +1,32 @@
+[comment]: <> (Introduction GIF)
 ![Hello-World](https://user-images.githubusercontent.com/24190953/127695263-262746ac-00b6-4b69-b379-396fd6661204.gif)
 
+[comment]: <> (Stats)
 <p align="center">
-<!--   <img src ="https://github-readme-stats-cy6773st0-emma-clark.vercel.app/api?username=Emma-Clark&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs,prs&bg_color=00000000"> -->
-  
-<!--   <img src ="https://github-readme-stats-cy6773st0-emma-clark.vercel.app/api/top-langs/?username=Emma-Clark&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&count_private=true"> -->
-  
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Emma-Clark&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=Emma-Clark&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-
-### Find out more about me:
-<a href='https://www.linkedin.com/in/clark-emma'><img align="left" alt="Emma-Clark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-<br />
+<hr> 
 
 
+[comment]: <> (Who am I?)
+<p align="center">
+    <a href="https://www.linkedin.com/in/clark-emma">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    </a>
+    <img src="https://img.shields.io/badge/BioMedical Engineer-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
+    <img src="https://img.shields.io/badge/Eletrical Engineer-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
+    <img src="https://img.shields.io/badge/Full Stack Developer-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
+    <img src="https://img.shields.io/badge/I love plants-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
+    <img src="https://img.shields.io/badge/Sailor-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
+</p>
 <!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+    <img src="https://img.shields.io/badge/Robotics-brown">
+    <img src="https://img.shields.io/badge/Machine Learning-green">
+    <img src="https://img.shields.io/badge/Deep Learning-red"> 
+    <img src="https://img.shields.io/badge/Embedded Software-magenta"> 
+    <img src="https://img.shields.io/badge/Prosthetic Development-yellow"> 
+    <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+</p>
 -->

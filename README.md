@@ -32,8 +32,7 @@
 -->
 
 <hr>
-NestJS, TypeOrm, ProstgreSQL, NgRx, Angular,
-and Ng-Zorro
+
 ### Languages and Tools:
 <p align="center">
     <img src="https://img.shields.io/badge/nestjs%20-%23323330.svg?&style=for-the-badge&logo=nestjs&logoColor=E0234E"/> 

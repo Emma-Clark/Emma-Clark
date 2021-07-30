@@ -55,4 +55,7 @@ and Ng-Zorro
     <img src="https://img.shields.io/badge/c++%20-%23323330.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=#4285F4"/> 
     <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=#4285F4"/> 
     <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/Jira%20-%23323330.svg?&style=for-the-badge&logo=Jira&logoColor=0052CC"/> 
+    <img src="https://img.shields.io/badge/LaTeX%20-%23323330.svg?&style=for-the-badge&logo=LaTeX&logoColor=008080"/> 
+    <img src="https://img.shields.io/badge/Octave%20-%23323330.svg?&style=for-the-badge&logo=Octave&logoColor=0790C0"/> 
 </p>

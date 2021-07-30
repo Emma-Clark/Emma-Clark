@@ -30,3 +30,29 @@
     <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
 </p>
 -->
+
+<hr>
+NestJS, TypeOrm, ProstgreSQL, NgRx, Angular,
+and Ng-Zorro
+### Languages and Tools:
+<p align="center">
+    <img src="https://img.shields.io/badge/nestjs%20-%23323330.svg?&style=for-the-badge&logo=nestjs&logoColor=E0234E"/> 
+    <img src="https://img.shields.io/badge/TypeScript%20-%23323330.svg?&style=for-the-badge&logo=TypeScript&logoColor=3178C6"/> 
+    <img src="https://img.shields.io/badge/PostgreSQL%20-%23323330.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"/> 
+    <img src="https://img.shields.io/badge/Angular%20-%23323330.svg?&style=for-the-badge&logo=AngularJS&logoColor=E23237"/> 
+    <img src="https://img.shields.io/badge/ClickUp%20-%23323330.svg?&style=for-the-badge&logo=ClickUp&logoColor=7B68EE"/> 
+    <img src="https://img.shields.io/badge/Vue.js%20-%23323330.svg?&style=for-the-badge&logo=Vue.js&logoColor=#4FC08D"/> 
+    <img src="https://img.shields.io/badge/WebStorm%20-%23323330.svg?&style=for-the-badge&logo=WebStorm&logoColor=#4FC08D"/> 
+    <img src="https://img.shields.io/badge/Docker%20-%23323330.svg?&style=for-the-badge&logo=Docker&logoColor=##2496ED"/> 
+    <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5"/> 
+    <img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=1572B6"/> 
+    <img src="https://img.shields.io/badge/Kubernetes%20-%23323330.svg?&style=for-the-badge&logo=Kubernetes&logoColor=326CE5"/> 
+    <img src="https://img.shields.io/badge/Google Cloud%20-%23323330.svg?&style=for-the-badge&logo=Google Cloud&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/Google Cloud%20-%23323330.svg?&style=for-the-badge&logo=Google Cloud&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/Postman%20-%23323330.svg?&style=for-the-badge&logo=Postman&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/Ubuntu%20-%23323330.svg?&style=for-the-badge&logo=Ubuntu&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/c++%20-%23323330.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=#4285F4"/> 
+    <img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=#4285F4"/> 
+</p>

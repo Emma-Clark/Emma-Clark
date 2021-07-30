@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/BioMedical Engineer-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
     <img src="https://img.shields.io/badge/Eletrical Engineer-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
     <img src="https://img.shields.io/badge/Full Stack Developer-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
-    <img src="https://img.shields.io/badge/I love plants-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
     <img src="https://img.shields.io/badge/Sailor-black?&style=for-the-badge&logoColor=white&color=071A2C"> 
 </p>
 <!--

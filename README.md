@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/Ionic%20-%23323330.svg?&style=for-the-badge&logo=Ionic&logoColor=3880FF&color=fae1e1"/> 
     <img src="https://img.shields.io/badge/Redux%20-%23323330.svg?&style=for-the-badge&logo=Redux&logoColor=764ABC&color=fae1e1"/> 
 </p>
+
 ### Tools:
 <p align="center">
     <img src="https://img.shields.io/badge/ClickUp%20-%23323330.svg?&style=for-the-badge&logo=ClickUp&logoColor=7B68EE&color=fae1e1"/> 
